@@ -1,0 +1,771 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S6",
+      "description": "The Samsung Galaxy S6 runs on Android OS, v5.0 (Lollipop) and is powered by Quad-core 1.3 GHz Cortex-A53 & Quad-core 1.9 GHz Cortex-A57 processor with 3GB RAM. It has a 5.1-inch, 1440 x 2560 pixel display. The Samsung Galaxy S6 also comes with a 16.0-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 2,
+      "price": 2599,
+      "image_url": "/images/samsung-galaxy-s6_20153341739_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-03-03",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nLTE 800 / 850 / 900 / 1800 / 1900"
+        },
+        "processor_memory": {
+          "sim": "Nano SIM",
+          "cpu": "Quad-core 1.5 GHz Cortex-A53, Quad-core 2.1 GHz Cortex-A57",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": null,
+          "gpu": "Mali-T760",
+          "chipset": "Exynos 7420"
+        },
+        "body": {
+          "dimensions": "143.4 x 70.5 x 6.8 (height x width x thickness)(mm)",
+          "weight": "138 g",
+          "available_colors": "Charcoal Black, Copper Gold, Electric Blue, Shimmery White",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.1 inch",
+          "resolution": "1440 x 2560 pixels (577 ppi pixel density)",
+          "screen_color": "Super AMOLED capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 4",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS v5.0 (Lollipop)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "SNS applications, Google Search, Maps, Gmail, YouTube, Google Talk, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/WMA/eAAC+/FLAC player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 2550 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gesture, Gyro, Heart rate, Proximity"
+        },
+        "camera": {
+          "capacity": "16 Megapixel",
+          "max_resolution": "4992 x 3744",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps, 720p@120fps, hdr, dual-video rec",
+          "secondary_camera": "5 MP, 1080p@30fps, dual video call, Auto HDR",
+          "extra_features": "Phase detection autofocus, LED flash, Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Redmi 2",
+      "description": "The Xiaomi Redmi 2 runs on Android OS, v4.4.4 (KitKat) and is powered by Quad-core 1.2 GHz Cortex-A53 processor with 1/2GB RAM. It has a 4.7-inch, 720 x 1280 pixel display. The Xiaomi Redmi 2 also comes with a 8.0-megapixel camera that is able to record videos at 1080p. It comes with 8/16GB of built-in storage, and is able to support microSD cards of up to 32GB.",
+      "balance": 8,
+      "price": 449,
+      "image_url": "/images/xiaomi-redmi-2_201521362954_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-02-13",
+          "network_technology": "GSM / HSPA / LTE"
+        },
+        "processor_memory": {
+          "sim": "Dual SIM",
+          "cpu": "Quad-core 1.2 GHz Cortex-A53",
+          "ram": "1 GB",
+          "internal_storage": "8 GB",
+          "external_storage": "microSD, up to 32 GB",
+          "gpu": "Adreno 306",
+          "chipset": null
+        },
+        "body": {
+          "dimensions": "134 x 67.2 x 9.4 (height x width x thickness)(mm)",
+          "weight": "133 g",
+          "available_colors": "Black, White, Yellow, Pink, Green",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "4.7 inch",
+          "resolution": "720 x 1280 pixels (312 ppi pixel density)",
+          "screen_color": "IPS LCD capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 2",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS, v4.4.4 (KitKat)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "Organizer, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/eAAC+/FLAC player"
+        },
+        "battery": {
+          "type_capacity": "Li-Po 2200 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": null,
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": null,
+          "bluetooth": "v4.0, A2DP, LE",
+          "usb_port": true,
+          "sensor": "Accelerometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "8 Megapixel",
+          "max_resolution": "3264 x 2448",
+          "flash": true,
+          "video_recording": "1080p@30fps",
+          "secondary_camera": "2 MP, 720p",
+          "extra_features": "Autofocus, LED flash, 1.4 µm pixel size, geo-tagging, touch focus, face/smile detection, HDR"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S6 Edge",
+      "description": "The Samsung Galaxy S6 Edge runs on Android OS, v5.0 (Lollipop) and is powered by Quad-core 1.3 GHz Cortex-A53 & Quad-core 1.9 GHz Cortex-A57 with 3GB RAM. It has a 5.2-inch, 1440 x 2560 pixel display. The Samsung Galaxy S6 Edge also comes with a 20.0-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 0,
+      "price": 3099,
+      "image_url": "/images/samsung-galaxy-s6-edge_2015335211_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-03-03",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nLTE 800 / 850 / 900 / 1800 / 1900"
+        },
+        "processor_memory": {
+          "sim": "Micro SIM",
+          "cpu": "Quad-core 1.3 GHz Cortex-A53, Quad-core 1.9 GHz Cortex-A57",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": "MicroSD, up to 128 GB",
+          "gpu": "Mali-T760",
+          "chipset": "Exynos 7420"
+        },
+        "body": {
+          "dimensions": "142.1 x 70.1 x 7 (height x width x thickness)(mm)",
+          "weight": "132 g",
+          "available_colors": "White Pearl, Black Sapphire, Gold Platinum, Green Emerald",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.1 inch",
+          "resolution": "1440 x 2560 pixels (576 ppi pixel density)",
+          "screen_color": "Super AMOLED capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 4",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS v5.0 (Lollipop)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/WMA/eAAC+/FLAC player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 2600 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": null,
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gesture, Gyro, Heart rate, Proximity"
+        },
+        "camera": {
+          "capacity": "16 Megapixel",
+          "max_resolution": "4992 x 3744",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps, 720p@120fps, hdr, dual-video rec",
+          "secondary_camera": "5 MP, 1080p@30fps, dual video call, Auto HDR",
+          "extra_features": "Phase detection autofocus, LED flash, Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "LG G4",
+      "description": "The LG G4 runs on Android OS, v5.1 (Lollipop) and is powered by Dual-core 1.8 GHz Cortex-A57 & quad-core 1.44 GHz Cortex-A53 processor with 3GB RAM. It has a 5.5-inch, 1440 x 2560 pixel display. The LG G4 also comes with a 16.0-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 0,
+      "price": 2499,
+      "image_url": "/images/lg-g4_2015429144628_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-04-29",
+          "network_technology": "GSM / HSPA / LTE"
+        },
+        "processor_memory": {
+          "sim": "Dual SIM",
+          "cpu": "Dual-core 1.8 GHz Cortex-A57, Quad-core 1.44 GHz Cortex-A53",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": "MicroSD, up to 128 GB",
+          "gpu": null,
+          "chipset": null
+        },
+        "body": {
+          "dimensions": "148.9 x 76.1 x 9.8 (height x width x thickness)(mm)",
+          "weight": "155 g",
+          "available_colors": "Grey, White, Gold, Leather Black, Leather Brown, Leather RedGrey,",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.5 inch",
+          "resolution": "1440 x 2560 pixels (538 ppi pixel density)",
+          "screen_color": "IPS LCD capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 4",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS v5.0 (Lollipop)",
+          "java_j2me": null,
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "Organizer, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/FLAC/eAAC+/WMA player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 3000 mAh battery",
+          "stand_by": "Up to 375 h (3G)",
+          "talk_time": "Up to 10 h (3G)"
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": null,
+          "wlan": true,
+          "gprs": null,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.1, A2DP, LE, apt-X",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "16 Megapixel",
+          "max_resolution": "5312 x 2988",
+          "flash": null,
+          "video_recording": "2160p@30fps, 1080p@60fps, optical stabilization, hdr, stereo sound rec",
+          "secondary_camera": "8 MP, 1080p@30fps",
+          "extra_features": "Phase detection/laser autofocus, optical image stabilization, dual-LED (dual tone) flash, 1/2.6\" sensor size, simultaneous video and image recording, geo-tagging, face detection, HDR"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "HTC One M9",
+      "description": "The HTC One M9 runs on (operating system) and is powered by Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57 processor with 3GB RAM. It has a 5.0-inch, 1080 x 1920 pixel display. The HTC One M9 also comes with a 20.7-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 0,
+      "price": 2599,
+      "image_url": "/images/htc-one-m9_201531281515_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-03-12",
+          "network_technology": "GSM / HSPA / LTE"
+        },
+        "processor_memory": {
+          "sim": "Dual SIM",
+          "cpu": "Quad-core 1.5 GHz Cortex-A53, Quad-core 2 GHz Cortex-A57",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": "MicroSD, up to 128 GB",
+          "gpu": "Adreno 430",
+          "chipset": null
+        },
+        "body": {
+          "dimensions": "144.6 x 69.7 x 9.6 (height x width x thickness)(mm)",
+          "weight": "157 g",
+          "available_colors": "Gunmetal Gray, Amber Gold, Silver/Rose gold, Gold/Pink",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5 inch",
+          "resolution": "1080 x 1920 pixels (441 ppi pixel density)",
+          "screen_color": "Super LCD3 capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": null,
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS v5.0 (Lollipop)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "Organizer, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": null
+        },
+        "battery": {
+          "type_capacity": "Li-Po 2840 mAh battery",
+          "stand_by": "Up to 391 h (2G) / Up to 402 h (3G)",
+          "talk_time": "Up to 25 h 20 min (2G) / Up to 21 h 50 min (3G)"
+        },
+        "entertainment": {
+          "fm_radio": true,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": null,
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.1, A2DP, LE, apt-X",
+          "usb_port": true,
+          "sensor": "Accelerometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "20 Megapixel",
+          "max_resolution": "5376 x 3752",
+          "flash": null,
+          "video_recording": "2160p@30fps, 1080p@60fps, 720p@120fps, hdr, stereo sound rec",
+          "secondary_camera": "4 MP, 1080p@30fps, HDR",
+          "extra_features": "Autofocus, dual-LED (dual tone) flash, Automatic simultaneous video and image recording, geo-tagging, face/smile detection, HDR, panorama"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Motorola Moto X",
+      "description": "The Moto X from Motorola is now arriving in Malaysia after being announced back in August 2013 and is expected to be a pretty efficient device for its price range - with a dual-core 1.7GHz Krait processor, Adreno 320 GPU, 720x1280 4.7\" display, excellent 2GB of RAM, expandable storage up to 32GB, and a whopping 18 color options for the casing.",
+      "balance": 3,
+      "price": 1499,
+      "image_url": "/images/motorola-moto-x_2013722143827_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2013-08-05",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nHSDPA\nLTE"
+        },
+        "processor_memory": {
+          "sim": true,
+          "cpu": "Dual-core 1.7 GHz Krait",
+          "ram": "2 GB",
+          "internal_storage": "16 GB",
+          "external_storage": null,
+          "gpu": "Adreno 320",
+          "chipset": "Qualcomm MSM8960Pro Snapdragon"
+        },
+        "body": {
+          "dimensions": "Qualcomm MSM8960Pro Snapdragon",
+          "weight": "130 g",
+          "available_colors": "Black, White (front panel), 18 color options (back panel)",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "4.7 inch",
+          "resolution": "720 x 1280 pixels",
+          "screen_color": "Capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS, v4.2.2 (Jelly Bean)",
+          "java_j2me": null,
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "SNS integration, Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Organizer, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration",
+          "3_5_mm_jack": true,
+          "extra_feature": null
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 2200 mAh battery",
+          "stand_by": "Up to 576 h",
+          "talk_time": "Up to 13 h"
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSDPA, 42.2 Mbps; HSUPA, 5.76 Mbps; LTE, Cat3, 50 Mbps UL, 100 Mbps DL / EV-DO Rev. A, up to 3.1 Mbp",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": null,
+          "bluetooth": "v4.0 with A2DP, LE, EDR",
+          "usb_port": null,
+          "sensor": "Accelerometer, Barometer, Compass, Gyro, Proximity, Temperature"
+        },
+        "camera": {
+          "capacity": "10 Megapixel",
+          "max_resolution": "4320 x 2432",
+          "flash": true,
+          "video_recording": "1080p@30fps",
+          "secondary_camera": "2 MP, 1080p",
+          "extra_features": "autofocus, LED flash, Geo-tagging, touch focus, face detection, panorama, HDR"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "LG G3",
+      "description": "The LG G3 runs on Android OS, v4.4.2 (KitKat) and is powered by Quad-core 2.26 GHz Krait 400 processor with 3GB RAM. It has a 5.5-inch, 1440 x 2560 pixel display. The LG G3 also comes with a 13.0-megapixel camera that is able to record videos at 1080p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 32GB.",
+      "balance": 4,
+      "price": 1699,
+      "image_url": "/images/lg-g3_2014613153553_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2014-06-09",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nLTE 800 / 1800"
+        },
+        "processor_memory": {
+          "sim": true,
+          "cpu": "Quad-core 2.5 GHz Krait 400",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": "microSD, up to 32 GB",
+          "gpu": "Adreno 330",
+          "chipset": "Qualcomm MSM8974AA Snapdragon"
+        },
+        "body": {
+          "dimensions": "146.3 x 74.6 x 8.9 (height x width x thickness)(mm)",
+          "weight": "149 g",
+          "available_colors": "Metallic Black, Silk White, Shine Gold, Moon Violet, Burgundy Red",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.5 inch",
+          "resolution": "1440 x 2560 pixels",
+          "screen_color": "True HD-IPS + LCD capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 3",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS, v4.4.2 (KitKat)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "SNS applications, Google Search, Maps, Gmail, YouTube, Google Talk, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/FLAC/eAAC+/WMA player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 3000 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSDPA, 42 Mbps; HSUPA, 21 Mbps; LTE, Cat4, 50 Mbps UL, 150 Mbps DL/ EV-DO Rev. A, up to 3.1 Mbps",
+          "wlan": "Class 12",
+          "gprs": true,
+          "edge": "Class 12",
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0 with A2DP, LE",
+          "usb_port": true,
+          "sensor": "Accelerometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "13 Megapixel",
+          "max_resolution": "4160 x 3120",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps, hdr, stereo sound rec., video stabilization",
+          "secondary_camera": "2.1 MP, 1080p@30fps",
+          "extra_features": "Autofocus, optical image stabilization, LED flash, Simultaneous video and image recording, geo-tagging, face detection, HDR"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Apple iPhone 6",
+      "description": "The Apple iPhone 6 runs on iOS 8 and is powered by Dual-core 1.4 GHz Cyclone (ARM v8-based) processor with 1GB RAM. It has a 4.7-inch, 750 x 1334 pixel display. The Apple iPhone 6 also comes with a 8.0-megapixel camera that is able to record videos at 1080p. It comes with 16/64/128GB of built-in storage.",
+      "balance": 0,
+      "price": 2549,
+      "image_url": "/images/apple-iphone-6_20149111340_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2014-09-11",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nCDMA 800 / 1700 / 1900 / 2100\nLTE"
+        },
+        "processor_memory": {
+          "sim": "Nano SIM",
+          "cpu": "Dual-core 1.4 GHz Cyclone (ARM v8-based)",
+          "ram": "1 GB",
+          "internal_storage": "16/64/128GB",
+          "external_storage": null,
+          "gpu": "PowerVR GX6650",
+          "chipset": "Apple A8"
+        },
+        "body": {
+          "dimensions": "137.5 x 67 x 7 (height x width x thickness)(mm)",
+          "weight": "129 g",
+          "available_colors": "Space Gray, Silver, Gold",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "4.7 inch",
+          "resolution": "750 x 1334 pixels",
+          "screen_color": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Oleophobic coating",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "iOS 8.1",
+          "java_j2me": null,
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "Airdrop file sharing, Siri natural language commands and dictation, iCloud cloud service, iCloud Keychain, Twitter and Facebook integration, TV-out, Maps, iBooks PDF reader, Audio/video player/editor, Organizer, Document viewer/editor, Image viewer/editor, Voice memo/dial/command"
+        },
+        "sound": {
+          "alert": null,
+          "3_5_mm_jack": true,
+          "extra_feature": null
+        },
+        "battery": {
+          "type_capacity": "Li-Po 1810 mAh battery",
+          "stand_by": "(2G) / Up to 250 h (3G)",
+          "talk_time": "(2G) / Up to 14 h (3G)"
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSDPA, 42 Mbps; HSUPA, 5.76 Mbps; EV-DO Rev. A, up to 3.1 Mbps; LTE, Cat4, 150 Mbps DL, 50 Mbps UL",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0 with A2DP",
+          "usb_port": true,
+          "sensor": "Accelerometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "8 Megapixel",
+          "max_resolution": "3264 x 2448",
+          "flash": true,
+          "video_recording": "1080p@60fps, 720p@240fps",
+          "secondary_camera": "1.2 MP, 720p, burst, HDR",
+          "extra_features": "Autofocus, dual-LED (dual tone) flash, 1.5 µm pixel size, geo-tagging, simultaneous HD video and image recording, touch focus, face and smile detection, image stabilization, panorama, HDR"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sony Xperia Z3",
+      "description": "The Sony Xperia Z3 runs on Android OS, v4.4.4 (KitKat) and is powered by Quad-core 2.5 GHz Krait 400 processor with 3GB RAM. The Sony Xperia Z3 also comes with a 20.7-megapixel camera that is able to record videos at 2160p. It comes with 16/32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 0,
+      "price": 1799,
+      "image_url": "/images/sony-xperia-z3_201411138515_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2014-08-22",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nLTE 700/800/850/900/1700/1800/1900/2100/2600"
+        },
+        "processor_memory": {
+          "sim": "Nano SIM",
+          "cpu": "Quad-core 2.5 GHz Krait 400",
+          "ram": "3 GB",
+          "internal_storage": "16/32 G",
+          "external_storage": "MicroSD, up to 128 GB",
+          "gpu": "Adreno 330",
+          "chipset": "Qualcomm MSM8974AC Snapdragon 801"
+        },
+        "body": {
+          "dimensions": "146 x 72 x 7.3 (height x width x thickness)(mm)",
+          "weight": "152 g",
+          "available_colors": "Black, White, Copper, Silver Green",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.2 inch",
+          "resolution": "1080 x 1920 pixels",
+          "screen_color": "IPS LCD capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": null,
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS, v4.4.4 (KitKat)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "SNS applications, Google Search, Maps, Gmail, YouTube, Google Talk, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/eAAC+/WAV/Flac player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 3100 mAh battery",
+          "stand_by": "Up to 890 h (2G) / Up to 740 h (3G)",
+          "talk_time": "Up to 14 h (2G) / Up to 16 h (3G)"
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSDPA, 42 Mbps; HSUPA, 5.8 Mbps; LTE, Cat4, 50 Mbps UL, 150 Mbps DL",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0, A2DP",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gyro, Proximity"
+        },
+        "camera": {
+          "capacity": "20.7 Megapixel",
+          "max_resolution": "5248 x 3936",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps, 720p@120fps, hdr",
+          "secondary_camera": "2.2 MP, 1080p@30fps",
+          "extra_features": "Autofocus, LED flash, 1/2.3\" sensor size, geo-tagging, touch focus, face detection, image stabilization, HDR, panorama"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy Note 4",
+      "description": "The Samsung Galaxy Note 4 runs on Android OS, v4.4.4 (KitKat) and is powered by Quad-core 2.7 GHz Krait 450 & Quad-core 1.3 GHz Cortex-A53 processor with 3GB RAM. It has a 5.7-inch, 1440 x 2560 pixel display. The Samsung Galaxy Note 4 also comes with a 16.0-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 64GB.",
+      "balance": 5,
+      "price": 2499,
+      "image_url": "/images/samsung-galaxy-note-4_20149821639_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2014-09-08",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nLTE 800 / 850 / 900 / 1800 / 2100"
+        },
+        "processor_memory": {
+          "sim": "Micro SIM",
+          "cpu": "Quad-core 2.7 GHz Krait 450, Quad-core 1.3 GHz Cortex-A53",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": "microSD, up to 64 GB",
+          "gpu": "Adreno 420",
+          "chipset": "Qualcomm Snapdragon 805"
+        },
+        "body": {
+          "dimensions": "153.5 x 78.6 x 8.5 (height x width x thickness)(mm)",
+          "weight": "176 g",
+          "available_colors": "Frosted white, Charcoal black, Bronze Gold, Blossom Pink",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.7 inch",
+          "resolution": "1440 x 2560 pixels",
+          "screen_color": "Super AMOLED capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 3",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS, v4.4.4 (KitKat)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM, RSS",
+          "others": "SNS applications, Google Search, Maps, Gmail, YouTube, Google Talk, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/eAAC+/AC3/FLAC player"
+        },
+        "battery": {
+          "type_capacity": "3220 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSDPA, 42 Mbps; HSUPA; LTE, Cat4 (N910C), Cat6 (N910S), 50 Mbps UL, 300 Mbps (N910S), 150 Mbps (N910",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0 with A2DP, LE, EDR",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gesture, Gyro, Humidity, Proximity, Temperature"
+        },
+        "camera": {
+          "capacity": "16 Megapixel",
+          "max_resolution": "3456 x 4608",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps",
+          "secondary_camera": "3.7 MP, 1080p@30fps",
+          "extra_features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face and smile detection, image stabilization, panorama, HDR, optical image stabilization, autofocus, LED flash"
+        }
+      }
+    }
+  ]

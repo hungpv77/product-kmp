@@ -1,0 +1,77 @@
+{
+      "id": 1,
+      "name": "Samsung Galaxy S6",
+      "description": "The Samsung Galaxy S6 runs on Android OS, v5.0 (Lollipop) and is powered by Quad-core 1.3 GHz Cortex-A53 & Quad-core 1.9 GHz Cortex-A57 processor with 3GB RAM. It has a 5.1-inch, 1440 x 2560 pixel display. The Samsung Galaxy S6 also comes with a 16.0-megapixel camera that is able to record videos at 2160p. It comes with 32GB of built-in storage, and is able to support microSD cards of up to 128GB.",
+      "balance": 2,
+      "price": 2599,
+      "image_url": "/images/samsung-galaxy-s6_20153341739_b.jpg",
+      "specification": {
+        "general": {
+          "date_announced": "2015-03-03",
+          "network_technology": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nLTE 800 / 850 / 900 / 1800 / 1900"
+        },
+        "processor_memory": {
+          "sim": "Nano SIM",
+          "cpu": "Quad-core 1.5 GHz Cortex-A53, Quad-core 2.1 GHz Cortex-A57",
+          "ram": "3 GB",
+          "internal_storage": "32 GB",
+          "external_storage": null,
+          "gpu": "Mali-T760",
+          "chipset": "Exynos 7420"
+        },
+        "body": {
+          "dimensions": "143.4 x 70.5 x 6.8 (height x width x thickness)(mm)",
+          "weight": "138 g",
+          "available_colors": "Charcoal Black, Copper Gold, Electric Blue, Shimmery White",
+          "qwerty_keypad": null
+        },
+        "display": {
+          "screen_size": "5.1 inch",
+          "resolution": "1440 x 2560 pixels (577 ppi pixel density)",
+          "screen_color": "Super AMOLED capacitive touchscreen, 16M colors",
+          "design": "Candybar",
+          "screen_protection": "Corning Gorilla Glass 4",
+          "multitouch": true
+        },
+        "software": {
+          "platform_os": "Android OS v5.0 (Lollipop)",
+          "java_j2me": "via Java MIDP emulator",
+          "messaging": "SMS, MMS, Email, Push Email, IM",
+          "others": "SNS applications, Google Search, Maps, Gmail, YouTube, Google Talk, Document viewer, Photo viewer/editor"
+        },
+        "sound": {
+          "alert": "MP3, Vibration, WAV",
+          "3_5_mm_jack": true,
+          "extra_feature": "MP3/WAV/WMA/eAAC+/FLAC player"
+        },
+        "battery": {
+          "type_capacity": "Li-Ion 2550 mAh battery",
+          "stand_by": null,
+          "talk_time": null
+        },
+        "entertainment": {
+          "fm_radio": null,
+          "tv_receiver": null
+        },
+        "connectivity": {
+          "hspda": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+          "wlan": true,
+          "gprs": true,
+          "edge": true,
+          "wifi_hot_spot": true,
+          "gps": true,
+          "nfc_support": true,
+          "bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+          "usb_port": true,
+          "sensor": "Accelerometer, Barometer, Compass, Gesture, Gyro, Heart rate, Proximity"
+        },
+        "camera": {
+          "capacity": "16 Megapixel",
+          "max_resolution": "4992 x 3744",
+          "flash": true,
+          "video_recording": "2160p@30fps, 1080p@60fps, 720p@120fps, hdr, dual-video rec",
+          "secondary_camera": "5 MP, 1080p@30fps, dual video call, Auto HDR",
+          "extra_features": "Phase detection autofocus, LED flash, Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR"
+        }
+      }
+    }

@@ -1,0 +1,22 @@
+#%RAML 1.0
+title: product-kmp
+version: 1.0.development
+baseUri: http://localhost:53000/api
+types:
+  product: !include product-kmp-schema.json
+/product:
+  get:
+    description: Retrieve a list of KMP product
+    responses:
+      200:
+        body:
+          application/json:            
+            example: !include products-kmp-example.json
+  /{id}:
+    get:  
+      description: Retrieve a KMP product by id
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include product-kmp-example.json

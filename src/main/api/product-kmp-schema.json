@@ -1,0 +1,311 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "balance": {
+        "type": "integer"
+      },
+      "price": {
+        "type": "integer"
+      },
+      "image_url": {
+        "type": "string"
+      },
+      "specification": {
+        "type": "object",
+        "properties": {
+          "general": {
+            "type": "object",
+            "properties": {
+              "date_announced": {
+                "type": "string"
+              },
+              "network_technology": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "date_announced",
+              "network_technology"
+            ]
+          },
+          "processor_memory": {
+            "type": "object",
+            "properties": {
+              "sim": {
+                "type": "string"
+              },
+              "cpu": {
+                "type": "string"
+              },
+              "ram": {
+                "type": "string"
+              },
+              "internal_storage": {
+                "type": "string"
+              },
+              "external_storage": {
+                "type": "string"
+              },
+              "gpu": {
+                "type": "string"
+              },
+              "chipset": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "sim",
+              "cpu",
+              "ram",
+              "internal_storage",
+              "external_storage",
+              "gpu",
+              "chipset"
+            ]
+          },
+          "body": {
+            "type": "object",
+            "properties": {
+              "dimensions": {
+                "type": "string"
+              },
+              "weight": {
+                "type": "string"
+              },
+              "available_colors": {
+                "type": "string"
+              },
+              "qwerty_keypad": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "dimensions",
+              "weight",
+              "available_colors",
+              "qwerty_keypad"
+            ]
+          },
+          "display": {
+            "type": "object",
+            "properties": {
+              "screen_size": {
+                "type": "string"
+              },
+              "resolution": {
+                "type": "string"
+              },
+              "screen_color": {
+                "type": "string"
+              },
+              "design": {
+                "type": "string"
+              },
+              "screen_protection": {
+                "type": "string"
+              },
+              "multitouch": {
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "screen_size",
+              "resolution",
+              "screen_color",
+              "design",
+              "screen_protection",
+              "multitouch"
+            ]
+          },
+          "software": {
+            "type": "object",
+            "properties": {
+              "platform_os": {
+                "type": "string"
+              },
+              "java_j2me": {
+                "type": "string"
+              },
+              "messaging": {
+                "type": "string"
+              },
+              "others": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "platform_os",
+              "java_j2me",
+              "messaging",
+              "others"
+            ]
+          },
+          "sound": {
+            "type": "object",
+            "properties": {
+              "alert": {
+                "type": "string"
+              },
+              "3_5_mm_jack": {
+                "type": "boolean"
+              },
+              "extra_feature": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "alert",
+              "3_5_mm_jack",
+              "extra_feature"
+            ]
+          },
+          "battery": {
+            "type": "object",
+            "properties": {
+              "type_capacity": {
+                "type": "string"
+              },
+              "stand_by": {
+                "type": "null"
+              },
+              "talk_time": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "type_capacity",
+              "stand_by",
+              "talk_time"
+            ]
+          },
+          "entertainment": {
+            "type": "object",
+            "properties": {
+              "fm_radio": {
+                "type": "null"
+              },
+              "tv_receiver": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "fm_radio",
+              "tv_receiver"
+            ]
+          },
+          "connectivity": {
+            "type": "object",
+            "properties": {
+              "hspda": {
+                "type": "string"
+              },
+              "wlan": {
+                "type": "boolean"
+              },
+              "gprs": {
+                "type": "boolean"
+              },
+              "edge": {
+                "type": "boolean"
+              },
+              "wifi_hot_spot": {
+                "type": "boolean"
+              },
+              "gps": {
+                "type": "boolean"
+              },
+              "nfc_support": {
+                "type": "boolean"
+              },
+              "bluetooth": {
+                "type": "string"
+              },
+              "usb_port": {
+                "type": "boolean"
+              },
+              "sensor": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "hspda",
+              "wlan",
+              "gprs",
+              "edge",
+              "wifi_hot_spot",
+              "gps",
+              "nfc_support",
+              "bluetooth",
+              "usb_port",
+              "sensor"
+            ]
+          },
+          "camera": {
+            "type": "object",
+            "properties": {
+              "capacity": {
+                "type": "string"
+              },
+              "max_resolution": {
+                "type": "string"
+              },
+              "flash": {
+                "type": "boolean"
+              },
+              "video_recording": {
+                "type": "string"
+              },
+              "secondary_camera": {
+                "type": "string"
+              },
+              "extra_features": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "capacity",
+              "max_resolution",
+              "flash",
+              "video_recording",
+              "secondary_camera",
+              "extra_features"
+            ]
+          }
+        },
+        "required": [
+          "general",
+          "processor_memory",
+          "body",
+          "display",
+          "software",
+          "sound",
+          "battery",
+          "entertainment",
+          "connectivity",
+          "camera"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "description",
+      "balance",
+      "price",
+      "image_url",
+      "specification"
+    ]
+  }
+}
